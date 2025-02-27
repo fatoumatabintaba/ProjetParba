@@ -110,6 +110,10 @@ nav ul li a {
     background-color: white;
 }
 
+.start-button i {
+    font-size: 16px;
+}
+
 #Partenaires {
     background-color: #5ecde8;
     text-align: center;
